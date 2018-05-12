@@ -1,10 +1,14 @@
 _repo: Venezuela-an-economic-report_49073
+_version: 0.1.0
 contributor:
   creator:
     editor:
       agent_name: University, Georgetown
       gutenberg_agent_id: '45124'
       url: http://www.gutenberg.org/2009/agents/45124
+covers:
+- cover_type: archival
+  image_path: 49073-h/images/cover.jpg
 creator:
   author:
     agent_name: Various
@@ -12,6 +16,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49073#Venezuela-an-economic-report
 gutenberg_issued: '2015-05-29'
 gutenberg_type: Text
 identifiers:
